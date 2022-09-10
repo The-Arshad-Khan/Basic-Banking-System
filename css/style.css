@@ -43,6 +43,7 @@ background-color: #6e8e82;
 .nav-link:hover{
     background-color:#52be94;
     border-radius: 15px;
+    color: #ffffff!important;
 }
 /* navbar css ends here  */
 
